@@ -3,7 +3,7 @@
 using namespace cv;
 
 int main() {
-
+//----------------------------Á·Ï°1-----------------------------------------
 	cv::Mat M1 = imread("bn.jpg");
 	namedWindow("Ô­Í¼Ïñ", CV_WINDOW_NORMAL);
 	imshow("Ô­Í¼Ïñ", M1);
